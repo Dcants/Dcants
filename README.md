@@ -1,6 +1,6 @@
 # Demetrius McCants
 
-I build modern web applications, data-engineering pipelines, SaaS platforms, business-automations, AI voice-receptionists, & military grade Radio Frequency Machine Learning tools. Real products that hold up under real load, users, and deadlines.
+I build modern web applications, data-engineering pipelines, SaaS platforms, business-automations, AI voice-receptionists, & military grade Radio Frequency Machine Learning tools. Robust products that hold up under real load, real users, and real deadlines.
 
 The live links below are the work itself. If something looks polished from the outside, that's the point.
 
